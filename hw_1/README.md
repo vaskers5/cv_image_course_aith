@@ -46,8 +46,8 @@
 ### Визуализация обучения
 
 <div align="center">
-  <img src="./metrics/loss.png" width="45%" alt="Loss График"/>
-  <img src="./metrics/accuracy.png" width="45%" alt="Accuracy График"/>
+  <img src="./metrics/train_loss.jpg" width="45%" alt="Loss График"/>
+  <img src="./metrics/accuracy.jpg" width="45%" alt="Accuracy График"/>
 </div>
 
 ## 🧪 Эксперименты
