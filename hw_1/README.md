@@ -38,16 +38,19 @@
 
 | Метрика | Значение |
 |---------|----------|
-| Accuracy | 9.3% |
-| Precision | 4% |
-| Recall | 9.3% |
-| F1-Score | 5.6% |
+| Accuracy | 96.4% |
+| Precision | 96.6% |
+| Recall | 96.4% |
+| F1-Score | 96.3% |
 
 ### Визуализация обучения
 
 <div align="center">
   <img src="./metrics/train_loss.jpg" width="45%" alt="Loss График"/>
   <img src="./metrics/accuracy.jpg" width="45%" alt="Accuracy График"/>
+  <img src="./metrics/f1_score.jpg" width="45%" alt="F1 score График"/>
+  <img src="./metrics/precision.jpg" width="45%" alt="Precision График"/>
+  <img src="./metrics/recall.jpg" width="45%" alt="Recall График"/>
 </div>
 
 ## 🧪 Эксперименты
