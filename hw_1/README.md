@@ -43,6 +43,9 @@
 | Recall | 96.4% |
 | F1-Score | 96.3% |
 
+В датасете 102 класса, precision, recall, accuracy, f1 - для каждого из классов можно найти в ./metrics/full_test_metrics.json
+
+
 ### Визуализация обучения
 
 <div align="center">
