@@ -1,0 +1,3 @@
+scikit-learn==1.5.2
+tqdm==4.66.5
+aim==3.26.1
